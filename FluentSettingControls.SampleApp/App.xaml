@@ -6,7 +6,7 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <XamlControlsResources xmlns="using:Microsoft.UI.Xaml.Controls" ControlsResourcesVersion="Version1"/>
+                <XamlControlsResources xmlns="using:Microsoft.UI.Xaml.Controls"/>
                 
                 <ResourceDictionary Source="ms-appx:///FluentSettingControls/Generic.xaml" />
             </ResourceDictionary.MergedDictionaries>
