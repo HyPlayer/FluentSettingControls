@@ -5,5 +5,8 @@
         <ResourceDictionary Source="/FluentSettingControls/SettingsCard/SettingsCard.xaml" />
         <ResourceDictionary Source="/FluentSettingControls/SettingsExpander/SettingsExpander.xaml" />
         <ResourceDictionary Source="/FluentSettingControls/SettingsGroup/SettingsGroup/SettingsGroup.xaml" />
+
+        <ResourceDictionary Source="/FluentSettingControls/Styles/Expander.xaml" />
+        <ResourceDictionary Source="/FluentSettingControls/Styles/SVStyles.xaml" />
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
